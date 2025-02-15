@@ -3,7 +3,7 @@
 <br>
  <h1 align="center">
   <br>
-  <img src="https://github.com/IvBanzaga/SUMA/blob/main/img/captura.png" alt="Android Studio">
+  <img src="https://github.com/IvBanzaga/SUMA/blob/master/img/captura.png" alt="Android Studio">
   <br>
   <br>
 </h1>
